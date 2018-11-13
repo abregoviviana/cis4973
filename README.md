@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Technical Skills List
 
-You can use the [editor on GitHub](https://github.com/abregoviviana/cis4973/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Below is a list of applications I learned about during the fall of 2018. For each of these, I went through a guided learning course where I learned the basics of each application. This by no means makes me an expert in any of these applications, but I now have a firm understanding of what they do and how they work.   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [GitHub](https://github.com/)
+GitHub is an open-source, version control system developed by Linus Trovalds (the creator of Linux) that helps developers store, manage, track and control changes to their code. Its user-friendly design makes it easy for even the novice user to make use of it. 
 
-### Markdown
+If you would also like to learn how to use GitHub, you can go [here](https://lab.github.com/courses).  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [PowerShell](https://docs.microsoft.com/en-us/powershell/) 
+If you would also like to learn how to use PowerShell, you can go [here](https://mva.microsoft.com/learning-path/powershell-beginner-12 ).
 
-```markdown
-Syntax highlighted code block
+### [PowerBI](https://powerbi.microsoft.com/en-us/desktop/) 
+If you would also like to learn how to use PowerBI, you can go [here](https://powerbi.microsoft.com/en-us/learning/ ).
 
-# Header 1
-## Header 2
-### Header 3
+### [AWS](https://aws.amazon.com/) 
+If you would also like to learn more about the services and solutions AWS provides, you can go [here](https://www.aws.training/).
 
-- Bulleted
-- List
+### [Linux](https://www.kernel.org/category/about.html)
+If you would also like to learn how to use Linux, you can go [here](https://www.guru99.com/unix-linux-tutorial.html ).
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abregoviviana/cis4973/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
