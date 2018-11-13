@@ -1,1 +1,9 @@
-theme: jekyll-theme-minimal
+title: Blog Master
+author: Me
+email: vivianaabrego@gmail.com
+
+# social link
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
