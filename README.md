@@ -14,7 +14,7 @@ If you would also like to learn how to use GitHub, you can go [here](https://lab
 ### [PowerShell](https://docs.microsoft.com/en-us/powershell/) 
 PowerShell is an open-source scripting language that lets you manage computers from the command-line. Based on the .NET framework (a controlled programming environment created by Microsoft for developing software), PowerShell can be used on Windows, macOS and Linux platforms to automate and configure various administrative tasks.
 
-#### Date of Completion: TBD
+##### Date of Completion: TBD
 
 ##### Proof of Completion:
 
@@ -32,18 +32,18 @@ If you would also like to learn how to use PowerBI, you can go [here](https://po
 ### [AWS](https://aws.amazon.com/)
 Amazon Web Services provides a suite of cloud computing services. The AWS Cloud Essentials training explains the list of services AWS provides, the benefits and drawbacks to using AWS, and pricing details for each service. 
 
-#### Date of Completion: November 4, 2018
+##### Date of Completion: November 4, 2018
 
-#### Proof of Completion: 
+##### Proof of Completion: 
 
 If you would also like to learn more about the services and solutions AWS provides, you can go [here](https://www.aws.training/).
 
 ### [Linux](https://www.kernel.org/category/about.html)
 Created by Linus Torvalds, Linux is a open-source operating system and a clone of the Unix operating system. With Linux, you can either download the kernel or the distribution system. For a first time user, downloading a distribution system is the recommended option as it comes 
 
-#### Date of Completion: TBD
+##### Date of Completion: TBD
 
-#### Proof of Completion:
+##### Proof of Completion:
 
 If you would also like to learn how to use Linux, you can go [here](https://www.guru99.com/unix-linux-tutorial.html ).
 
