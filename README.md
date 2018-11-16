@@ -23,9 +23,9 @@ If you would also like to learn how to use PowerShell, you can go [here](https:/
 ### [PowerBI](https://powerbi.microsoft.com/en-us/desktop/) 
 PowerBI is a data analytics service that helps analysts create detailed visuals of their data. Available as a desktop application and as a service online for mobile use, PowerBI also allows you to share your reports with collegues on any device. 
 
-#### Date of Completion: TBD
+##### Date of Completion: TBD
 
-#### Proof of Completion:
+##### Proof of Completion:
 
 If you would also like to learn how to use PowerBI, you can go [here](https://powerbi.microsoft.com/en-us/learning/).
 
