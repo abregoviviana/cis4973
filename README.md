@@ -1,6 +1,6 @@
 # Tech Skills List
 
-Below is a list of applications I learned about during the fall of 2018. For each of these, I went through a guided learning course where I learned the basics of each application. This by no means makes me an expert in any of these applications, but I now have a firm understanding of what they do and how they work.   
+Below is a list of skills I had the opportunity to learn during the fall of 2018. For each of these, I went through a guided learning course where I learned the basics of each application. This by no means makes me an expert in any of these applications, but I now have a firm understanding of what they do and how they work.   
 
 ### [GitHub](https://github.com/)
 GitHub is an open-source, version control system developed by Linus Torvalds (the creator of Linux) that helps developers store, manage, track and control changes to their code. Its user-friendly design makes it easy for even the novice user to make use of it. 
@@ -37,7 +37,7 @@ Proof of Completion:
 If you would also like to learn more about the services and solutions AWS provides, you can go [here](https://www.aws.training/).
 
 ### [Linux](https://www.kernel.org/category/about.html)
-Created by Linus Torvalds, Linux is a open-source operating system and a clone of the Unix operating system. 
+Created by Linus Torvalds, Linux is a open-source operating system and a clone of the Unix operating system. With Linux, you can either download the kernel or the distribution system. For a first time user, downloading a distribution system is the recommended option as it comes 
 
 Date of Completion: TBD
 
