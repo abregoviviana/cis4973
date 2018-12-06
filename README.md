@@ -14,7 +14,9 @@ PowerShell is an open-source scripting language that lets you manage computers f
 
 ##### Date of Completion: TBD
 
-##### Proof of Completion: https://mva.microsoft.com/RewardEvidence.aspx/?key=61br50S24DAkt1TpyWumLQ2 
+##### Proof of Completion: 
+
+<img src="/assets/images/begbadge.png" width="200" height="200" alt="psproof"/>
 
 
 ### [PowerBI](https://powerbi.microsoft.com/en-us/desktop/) 
